@@ -41,7 +41,7 @@ Militarization of Government? 'Correct' says Duterte.</font>
 <br><br><br><br><br>
 
 <p align = "center">
-<br><br><br><br><br><br>
+<br><br><br><br><br>
 <font color = "yellow" size = "6" face = "arial black">
 TOMORROW'S SUBJECT: AN IMAGE OF HOPE</font>
 <br><br>
@@ -60,7 +60,24 @@ As another year begins, it is important to be grateful that with all the things 
 The anchor is a Symbol of hope and steadfastness. 
 <br><br>
 In ancient times, the anchor was a symbol of safety. Christ is the anchor of Christianity and he preached hope to people. According to the Epistle to the Hebrews “Hope... is an anchor of the soul, sure and firm” (Hebrews 6:19-20). The anchor holds Christians steady to the hope of eternal salvation. Everytime the anchor rises, a new voyage will begin. They will explore and enjoy another journey!</font>
-<br><br><br><br><br><br><br><br>
+<br><br><br><br>
+	
+<p align = "center">
+<br><br><br><br><br>
+<font color = "yellow" size = "6" face = "arial black">
+<img src = "messages of hope.jpg" width = 800px height = 282px>
+<br><br>
+<font color = "white" size = "3" face = "arial">
+“He will wipe away every tear from their eyes, and death shall be no more, neither shall there be mourning, nor crying, nor pain anymore, for the former things have passed away.” 
+<br>
+(Revelation 21:4)
+<br><br>
+“Have no anxiety at all; but in everything, by prayer and petition, with thanksgiving, make your requests known to God.”
+<br>
+(Philippians 4:6)
+<br><br>
+Ms. Alicia P. Catabay once said that; “At the end of the day all we need is hope and strength. Hope that it will eventually get better and strength to hold on till it does”. And while we are waiting; whatever hardship, challenges, indecisions, and fears that we are facing, we just remember that these too shall pass and by the grace of God we will overcome. You might have lost someone you treasure so much, or you might be struggling to survive or to live, however all of those will be part of paragraphs in a book filled with your own journey. This means the end of that page is just there somewhere, so do not lose faith and keep hoping no matter what. Also, always remember that no matter where you are, who you are and what your situation is, may our powerful God grant you courage and strength. May you never give up because it may be hard today, but no one knows what tommorrow holds. </font>
+<br><br><br><br>
 	
 <p align = left>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
