@@ -3,7 +3,7 @@
 	<head><title>welcome to group 3's webpage!</title></head>
 <p align = "left">
   
-<body background="bgpic.jpg" width = 900px height = 506px> 
+<body background="vhoa0.jpg">
 <img src = "logo.png" width = 60px height = 60px>	
 <font color = "white" size = "5" face = "arial black">
 Home</font>
