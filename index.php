@@ -30,7 +30,9 @@ If our country’s government will be more solicitous and mindful hereafter, the
 <p align = "center">
 <font color = "white" size = "3" face = "arial">
 In summary, the government should know their priorities and be aware of their incompetence in responding to the prior mentioned crisis. The battle against COVID-19 is not just a battle for the government of the Philippines yet a collective fight for every Filipino. Thus, the cooperation, relationship, and discipline of every Filipino, as well as the government in respecting and following the mandated precautionary measures prescribed by the authorities along with focusing on the primary issue than of militarism, are the most significant in determining factors in the country’s battle against COVID-19.</font>
-	
+<br><br><br><br>
+<img src = "militarism.jpg" width = 640px height = 426.5px>
+<br><br><br><br><br><br><br><br>
 <p align = left>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <font size = "2" color = "White" face="tahoma">
