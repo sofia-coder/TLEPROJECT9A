@@ -96,6 +96,38 @@ but no one knows what tommorrow holds. </font></i><br>
 Alicia P. Catabay, RPh, MSc, PhD </b>	
 <br><br><br><br>
 	
+<img src = "words of encouragement.jpg" width = 498px height = 101px>
+<br><br>
+<p align = "center">
+<font color = "yellow" size = "3" face = "Tahoma">
+“You are braver than you believe, stronger than you seem, and smarter than you think.”<br>
+Whatever you do, don’t be discouraged. Keep moving, keep being productive.<br>
+Keep your head up because we will come out stronger on the other side, and we will be ready to fight whatever the future holds for us.<br><br>
+<b>Mikyla Katalbas</b>
+<br><br>
+We shall never lose hope for every journey have its own end. Every situation, may it be positive or negative,<br>
+they would pass by and will only be part of history someday. That is why we pray that everyone, no matter where you are,<br>
+who you are, and what your situation is, may our Powerful God grant you courage and strength. May you never give up because it may be hardtoday,<br>
+but no one knows what tomorrow holds.<br><br>
+<b>Cathleen Joy Cordero</b>
+<br><br>
+In face of life's most difficult circumstances and greatest tragedies,<br>
+we can trust the Lord. We can persevere in the confident expectation that<br>
+we're not alone or forgotten. He will never abandon us.<br><br>
+<b>Charlene Joy Claridad</b>
+<br><br>
+Don't lose hope and don't give up even in these troubling times.<br>
+Continue to reach for the light. Everything will be alright. I wish you all good health<br>
+and a good spirit during these troubled times. Take care, stay safe and be well!<br><br>
+<b>Sofia Blanco</bs>
+<br><br>
+ Even if there are moments in our life where it is tainted by despair,<br>
+we can overcome that despair with our own hope along the obstacles we pass.<br>
+Moving forward with strength in our hearts makes us the person that we are.<br>
+The first step on having hope is to truly believe in yourself.<br><br>
+<b>Kaori Jash Hirose</b>
+<br><br><br><br>
+	
 <p align = left>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <font size = "2" color = "White" face="tahoma">
