@@ -3,6 +3,10 @@
 	<head><title>welcome to group 3's webpage!</title></head>
 <p align = "left">
 	
+<audio controls>
+<source src ="audio/Website Background Music.wav" type ="audio/wav">
+</audio>
+	
 <body background="bgpic.jpg">
 <img src = "logo.png" width = 60px height = 60px>	
 <font color = "white" size = "5" face = "arial black">
