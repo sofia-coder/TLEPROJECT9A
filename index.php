@@ -38,13 +38,13 @@ In summary, the government should know their priorities and be aware of their in
 <p align = "center">
 <font color = "yellow" size = "2" face = "arial">
 Militarization of Government? 'Correct' says Duterte.</font>
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br>
 
 <p align = "center">
 <br><br><br><br><br><br><br><br><br><br>
 <font color = "yellow" size = "6" face = "arial black">
 TOMORROW'S SUBJECT: AN IMAGE OF HOPE</font>
-
+<br><br>
 <font color = "white" size = "3" face = "arial">
 Introduction 	
 <br><br>
