@@ -4,12 +4,7 @@
 	    <title>welcome to group 3's webpage!</title></head>
 <p align = "left">
 
-	<head>
-		<title>Audio</title>
-	</head>
-	
-	<body>
-		<embed src = "https://www.youtube.com/watch?v=4l6J5jhRgos">
+	<embed name="WebsiteBackgroundMusic" src="/music/website_background_music.mp3" loop="false" hidden="true" autostart="true">
  	
 <body background="bgpic.jpg">
 <img src = "logo.png" width = 60px height = 60px>	
