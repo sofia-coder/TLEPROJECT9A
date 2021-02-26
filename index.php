@@ -5,6 +5,7 @@
   
 <body background="bgpic.jpg" width = 900px height = 506px> 
 <img src = "logo.png" width = 60px height = 60px>
+<img src = "bgpic.jpg" width = 900px height = 506px>	
 <font color = "white" size = "5" face = "arial black">
 Home</font>
 <p align = "center">
