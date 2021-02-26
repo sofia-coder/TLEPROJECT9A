@@ -16,7 +16,7 @@ TODAY AND TOMORROW</font>
 <i>-John C. Maxwell</i><br>
 <br>	
 <p align = "center">
-<font color = "yellow" size = "7" face = "arial black">
+<font color = "yellow" size = "6" face = "arial black">
 TODAY'S ISSUE: PHILIPPINES' TRAGEDY OF PANDEMIC MILITARISM</font><br>
 <br><font color = "yellow" size = "3" face = "arial">
 Series of incompetent responses were executed by the government and their continuous deprioritization leads the state to rapidly increase the Coronavirus cases in the Philippines. As the arising of this worldwide pandemic crisis, the Philippine government makes one of the worst examples of handling the pandemic due to its inefficiency married with militarism threaded throughout its responses. It is a bleak one marred by a totalitarian streak and the people’s increased realization that the state is more intent on filling jails. The global crisis is first and foremost a public health issue. Nonetheless, Philippine’s President Rodrigo Duterte has faced the Coronavirus pandemic in a decidedly militaristic fashion. The President also had a message for anyone who intended to repeat the action of San Roque residents (leftists): “I will not hesitate. My orders are to the police and military, as well as village officials if there are any trouble, or occasions where there’s violence and your lives are in danger: shoot them dead.”</font> 
