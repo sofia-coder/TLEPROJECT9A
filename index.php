@@ -119,7 +119,7 @@ we're not alone or forgotten. He will never abandon us.<br>
 Don't lose hope and don't give up even in these troubling times.<br>
 Continue to reach for the light. Everything will be alright. I wish you all good health<br>
 and a good spirit during these troubled times. Take care, stay safe and be well!<br>
-<b>Sofia Blanco</bs>
+<b>Sofia Blanco</b>
 <br><br><br><br>
 Even if there are moments in our life where it is tainted by despair,<br>
 we can overcome that despair with our own hope along the obstacles we pass.<br>
