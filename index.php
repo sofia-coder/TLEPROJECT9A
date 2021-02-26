@@ -4,7 +4,9 @@
 <p align = "left">
 	
 <audio controls>
-<source src ="audio/Website Background Music.wav" type ="audio/wav">
+<source src ="audio/Website Background Music.wav" type ="audio/wav">	
+<source src ="audio/Website Background Music.wav" type ="audio/ogg">
+<source src ="audio/Website Background Music.wav" type ="audio/mpeg">
 </audio>
 	
 <body background="bgpic.jpg">
