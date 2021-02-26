@@ -79,7 +79,7 @@ In ancient times, the anchor was a symbol of safety. Christ is the anchor of Chr
 	
 <p align = "left">
 <img src = "miss_alicia.jpg" width = 380px height = 352px>
-<p align = "right">
+<font color = "white" size = "4" face = "Tahoma">
 Ms. Alicia P. Catabay once said that; “At the end of the day all we need is hope and strength.<br>
 Hope that it will eventually get better and strength to hold on till it does”.<br>
 And while we are waiting; whatever hardship, challenges, indecisions, and fears that we are facing,<br>
