@@ -2,12 +2,12 @@
 <body>
 	<head><title>welcome to group 3's webpage!</title></head>
 <p align = "left">
-  
 <body background="bgpic.jpg">
 <img src = "logo.png" width = 60px height = 60px>	
 <font color = "white" size = "5" face = "arial black">
 Home</font>
 <p align = "center">
+<br><br><br><br><br><br><br><br><br><br>
 <font color = "white" size = "32" face = "arial black">
 TODAY AND TOMORROW</font>
 <font face = "courier" size = "6" color = "white">
