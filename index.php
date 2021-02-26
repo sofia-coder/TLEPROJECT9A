@@ -129,11 +129,23 @@ we can overcome that despair with our own hope along the obstacles we pass.<br>
 Moving forward with strength in our hearts makes us the person that we are.<br>
 The first step on having hope is to truly believe in yourself.<br>
 <b>Kaori Jash Hirose</b>
-<br><br><br><br>
+<br><br><br><br><br>
+
+<p align = "center">
+<font color = "yellow" size = "6" face = "arial black">
+ADVOCACY OF HOPE</font>
+<br><br>
 	
+<font color = "yellow" size = "3" face = "Tahoma">
+https://www.youtube.com/watch?v=OYlOCtWByAk&feature=youtu.be</font>
+<br><br><br><br>
+
+<p align = "center">
+<font color = "yellow" size = "6" face = "arial black">
+GROUP 3 MEMBERS - 9A</font>
 <p align = left>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<font size = "2" color = "White" face="tahoma">
+<br><br><br><br><br><br><br>
+<font size = "3" color = "White" face="tahoma">
 9A Group 3<br>
 Claridad, Charlene Joy<br>
 Hirose, Kaori Jash<br>
