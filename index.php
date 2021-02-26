@@ -13,9 +13,10 @@ TODAY AND TOMORROW</font>
 <font face = "courier" size = "6" color = "white">
 <br>Tomorrow's destiny becomes today's direction.<br>
 <font size=4>
-<i>-John C. Maxwell</i><br>	
+<i>-John C. Maxwell</i><br>
+	
 <p align = "center">
-<font color = "black" size = "22" face = "arial black">
+<font color = "black" size = "2" face = "arial">
 TODAY'S ISSUE: PHILIPPINES' TRAGEDY OF PANDEMIC MILITARISM</font>	
 	
 <p align = left>
