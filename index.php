@@ -91,7 +91,7 @@ This means the end of that page is just there somewhere, so do not lose faith an
 Also, always remember that no matter where you are, who you are and what your situation is,<br>
 may our powerful God grant you courage and strength. May you never give up because it may be hard today,<br>
 but no one knows what tommorrow holds. </font></i><br>
-	
+<br><br>
 <font color = "white" size = "4" face = "Tahoma"><b>
 Alicia P. Catabay, RPh, MSc, PhD </b>	
 <br><br><br><br>
