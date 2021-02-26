@@ -4,7 +4,7 @@
 <p align = "left">
   
 <body background="bgpic.jpg"> 
-<img src = "logo.png" width = 60px height = 60px>
+<img src = "logo.png" width = 900px height = 506px>
 <font color = "white" size = "5" face = "arial black">
 Home</font>
 <p align = "center">
