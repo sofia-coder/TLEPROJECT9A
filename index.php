@@ -3,15 +3,13 @@
 	<head>
 	    <title>welcome to group 3's webpage!</title></head>
 <p align = "left">
-	
-	<head> 
+
+	<head>
 		<title>Audio</title>
 	</head>
 	
-	        <audio controls>
-                <source src ="Website_Background_Music.wav" type ="audio/wav">
-
-        </audio>
+	<body>
+		<embed src = "music/Website Background Music.wav">
  	
 <body background="bgpic.jpg">
 <img src = "logo.png" width = 60px height = 60px>	
