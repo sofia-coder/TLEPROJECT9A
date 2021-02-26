@@ -7,7 +7,7 @@
 <font color = "white" size = "5" face = "arial black">
 Home</font>
 <p align = "center">
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 <font color = "white" size = "32" face = "arial black">
 TODAY AND TOMORROW</font>
 <font face = "courier" size = "6" color = "white">
@@ -16,7 +16,7 @@ TODAY AND TOMORROW</font>
 <i>-John C. Maxwell</i><br>
 <br>	
 <p align = "center">
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>br><br><br><br>br>
 <font color = "yellow" size = "6" face = "arial black">
 TODAY'S ISSUE: PHILIPPINES' TRAGEDY OF PANDEMIC MILITARISM</font><br>
 <br><font color = "white" size = "3" face = "arial">
