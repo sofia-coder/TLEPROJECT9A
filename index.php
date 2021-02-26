@@ -46,9 +46,12 @@ TOMORROW'S SUBJECT: AN IMAGE OF HOPE</font>
 <font color = "white" size = "3" face = "arial">
 Introduction 	
 <br><br>
-The year 2020 has been one extraordinary year. It made humanity question and realize a lot of things and proved that wealth is nothing without health.
+The year 2020 has been one extraordinary year. It made humanity question and realize<br> 
+a lot of things and proved that wealth is nothing without health.
 <br><br>
-As another year begins, it is important to be grateful that with all the things that have happened in the past year, we are still here alive and continuing to survive. As a member of the Social Action Office of the City Bacolod, we would like to spread a message of hope in order to start this New Year right.
+As another year begins, it is important to be grateful that with all the things that have<br>
+happened in the past year, we are still here alive and continuing to survive. As a member of the<br>
+Social Action Office of the City Bacolod, we would like to spread a message of hope in order to start this New Year right.
 <br><br><br><br>
 	
 <img src = "anchor.jpg" width = 384px height = 384px>
