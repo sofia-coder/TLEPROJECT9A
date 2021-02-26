@@ -1,14 +1,20 @@
 <html>
 <body>
-	<head><title>welcome to group 3's webpage!</title></head>
+	<head>
+	    <title>welcome to group 3's webpage!</title></head>
 <p align = "left">
 	
-<audio controls>
-<source src ="audio/Website Background Music.wav" type ="audio/wav">	
-<source src ="audio/Website Background Music.wav" type ="audio/ogg">
-<source src ="audio/Website Background Music.wav" type ="audio/mpeg">
-</audio>
+	<head> 
+		<title>Audio</title>
+	</head>
 	
+	</body>
+	
+	        <audio controls>
+                <source src ="Website_Background_Music.wav" type ="audio/wav">
+
+        </audio>
+ 	
 <body background="bgpic.jpg">
 <img src = "logo.png" width = 60px height = 60px>	
 <font color = "white" size = "5" face = "arial black">
