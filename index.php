@@ -15,8 +15,8 @@ TODAY AND TOMORROW</font>
 <font size=4>
 <i>-John C. Maxwell</i><br>
 	
-<p align = "left">
-<font color = "black" size = "32" face = "arial black">
+<br><p align = "center">
+<font color = "black" size = "28" face = "arial black">
 TODAY'S ISSUE: PHILIPPINES' TRAGEDY OF PANDEMIC MILITARISM</font>	
 <font face = "courier" size = "6" color = "white">
 	
