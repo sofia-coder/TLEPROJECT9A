@@ -7,6 +7,11 @@
 	<head> 
 		<title>Audio</title>
 	</head>
+	
+	        <audio controls>
+                <source src ="Website_Background_Music.wav" type ="audio/wav">
+
+        </audio>
  	
 <body background="bgpic.jpg">
 <img src = "logo.png" width = 60px height = 60px>	
@@ -157,13 +162,6 @@ Hirose, Kaori Jash<br>
 Katalbas, Mikyla<br>
 Blanco, Sofia<br>
 Cordero, Cathleen<br>
-	
-	</body>
-	
-	        <audio controls>
-                <source src ="Website_Background_Music.wav" type ="audio/wav">
-
-        </audio>
   
 </body>
 </html>
