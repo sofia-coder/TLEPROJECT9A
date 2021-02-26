@@ -19,7 +19,7 @@ TODAY AND TOMORROW</font>
 <p align = "center">
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <font color = "yellow" size = "6" face = "arial black">
-TODAY'S ISSUE: PHILIPPINES' TRAGEDY OF PANDEMIC MILITARISM</font><br>
+TODAY'S ISSUE: PHILIPPINES' TRAGEDY OF PANDEMIC MILITARISM</font><br><br>
 	
 <font color = "white" size = "3" face = "arial">
 Series of incompetent responses were executed by the government and their continuous deprioritization leads the state to rapidly increase the Coronavirus cases in the Philippines. As the arising of this worldwide pandemic crisis, the Philippine government makes one of the worst examples of handling the pandemic due to its inefficiency married with militarism threaded throughout its responses. It is a bleak one marred by a totalitarian streak and the people’s increased realization that the state is more intent on filling jails. The global crisis is first and foremost a public health issue. Nonetheless, Philippine’s President Rodrigo Duterte has faced the Coronavirus pandemic in a decidedly militaristic fashion. The President also had a message for anyone who intended to repeat the action of San Roque residents (leftists): “I will not hesitate. My orders are to the police and military, as well as village officials if there are any trouble, or occasions where there’s violence and your lives are in danger: shoot them dead.” 
@@ -74,8 +74,11 @@ In ancient times, the anchor was a symbol of safety. Christ is the anchor of Chr
 <br><br>
 “Have no anxiety at all; but in everything, by prayer and petition, with thanksgiving, make your requests known to God.”
 <br>
-(Philippians 4:6)
+(Philippians 4:6)</font>
 <br><br>
+	
+<img src = "miss_alicia.jpg" width = 380px height = 352px>
+<p align = "right">
 Ms. Alicia P. Catabay once said that; “At the end of the day all we need is hope and strength. Hope that it will eventually get better and strength to hold on till it does”. And while we are waiting; whatever hardship, challenges, indecisions, and fears that we are facing, we just remember that these too shall pass and by the grace of God we will overcome. You might have lost someone you treasure so much, or you might be struggling to survive or to live, however all of those will be part of paragraphs in a book filled with your own journey. This means the end of that page is just there somewhere, so do not lose faith and keep hoping no matter what. Also, always remember that no matter where you are, who you are and what your situation is, may our powerful God grant you courage and strength. May you never give up because it may be hard today, but no one knows what tommorrow holds. </font>
 <br><br><br><br>
 	
