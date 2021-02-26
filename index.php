@@ -138,13 +138,13 @@ ADVOCACY OF HOPE</font>
 	
 <font color = "yellow" size = "3" face = "Tahoma">
 https://www.youtube.com/watch?v=OYlOCtWByAk&feature=youtu.be</font>
-<br><br><br><br>
+<br><br><br><br><br>
 
 <p align = "center">
 <font color = "yellow" size = "6" face = "arial black">
 GROUP 3 MEMBERS - 9A</font>
 <p align = CENTER>
-<br><br><br><br><br><br><br>
+<br><br>
 <font size = "4" color = "White" face="tahoma">
 9A Group 3<br>
 Claridad, Charlene Joy<br>
