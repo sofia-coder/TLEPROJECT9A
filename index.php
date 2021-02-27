@@ -10,7 +10,7 @@
 	
 	<body>
 		
-		<audio controls>
+		<audio autoplay controls loop>
 			<source src="Website%20Background%20Music.mp3" type="audio/mpeg">
 		</audio>
 	
